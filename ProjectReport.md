@@ -1,3 +1,5 @@
+
+
 # Seer
 Seer gives market based estimates of the likelihood of any kind of events while allowing participants to earn money for their predictions
 
@@ -119,3 +121,4 @@ Experienced team
 - Be very specific & precise (e.g. Who will win the “\_\_\_\_\_” 2022 presidential election? By given up to 5 options for voting)
 - Interesting: Not to put up the information that is obvious to the public or easy to predict
 ****
+![banner_resized](https://user-images.githubusercontent.com/113799257/190891901-5d745776-572b-4a89-a171-e69530eadb07.jpg)
