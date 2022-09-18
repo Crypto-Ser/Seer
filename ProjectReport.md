@@ -1,5 +1,5 @@
+![ProjectName](https://user-images.githubusercontent.com/113799257/190892013-c64124a1-6c3b-4c9f-8813-1b95994acc75.png)
 
-![ProjectName](https://user-images.githubusercontent.com/113799257/190891916-ee183166-708f-4397-aeb6-c6a8a8424a82.png)
 
 # Seer
 Seer gives market based estimates of the likelihood of any kind of events while allowing participants to earn money for their predictions
