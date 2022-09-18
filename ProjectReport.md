@@ -30,21 +30,6 @@ Seer offer advantages such as data and insights that can help build forecasting 
 - People's trust and appreciation of our prediction market will only grow as leaders from different sectors help the information to become more reliable and effective.
 - As more individuals participate in the market, more data is collected, and their effectiveness increases.
 
-###
-### Demo
-
-
-
-
-
-
-*(Will create a beautiful presentable demo picture once it’s finalized)*
-
-
-
-
-
-
 
 
 **Value prepositions:**
