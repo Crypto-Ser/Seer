@@ -22,3 +22,7 @@ We used:
 - [Rewards](https://swapr.eth.link/#/rewards/campaign/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/0xd71D475A6318A3E1dc947A657B01dcBDa15E9B40/0x2e9B038F6b90266e1d53101bd129B6b916d05D8e?chainId=1) where you can stake your DXswapPool tokens to get part of the 10 DAI subsidies.
 
 
+### Mockups
+We made a mockup of a combined interface (allowing to perform all actions related to Seer in a unique interface).
+- [Mockup](https://github.com/Crypto-Ser/Seer/blob/main/CombineInterfaceMockUp.pdf)
+Implementing it will be the next step after the hackathon.
