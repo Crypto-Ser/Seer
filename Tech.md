@@ -26,4 +26,9 @@ We used:
 We made a mockup of a combined interface (allowing to perform all actions related to Seer in a unique interface).
 - [Mockup](https://github.com/Crypto-Ser/Seer/blob/main/CombineInterfaceMockUp.pdf)
 Implementing it will be the next step after the hackathon.
+![307224239_1436050570233128_9040444296082608918_n](https://user-images.githubusercontent.com/113799257/190894162-6293bb26-8048-4bfa-8901-c7277ee05870.jpg)
+
+![307090504_943627146594223_3237756096729281983_n](https://user-images.githubusercontent.com/113799257/190894149-8df7cc1d-273e-4bf7-9578-ccdac732c72a.jpg)
+
+
 
